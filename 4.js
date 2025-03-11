@@ -3,5 +3,5 @@
 const fruits = ['apple', 'banana', 'orange', 'grapes', 'mango'];
 
 //remove 'orange'
-fruits.splice(2, 2);
+fruits.splice(2, 1);
 console.log(fruits);
